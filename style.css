@@ -98,7 +98,7 @@ body {
    
 }
 .wrapper .typing-area .input-field:hover {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     transition: 0.3s all ease-in-out;
    
 }
